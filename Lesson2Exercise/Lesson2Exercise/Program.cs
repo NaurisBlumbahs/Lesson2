@@ -123,15 +123,6 @@ namespace Lesson2Exercise
 
             string interpolatedText = $"Sveiks {user1Name}, tavs vecums ir {user1Age}";
             Console.WriteLine(interpolatedText);
-
-
-
-
-
-
-
-
-
         }
     }
 }
